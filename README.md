@@ -5,7 +5,8 @@ This is a simple calculator app built with React.js useState Hooks and eval() fu
 Don't use '=' operator consecutively it raises error which had not been handled using exception/error handling. If some error use Clear Button and retry in some other way.
 <h1>Rest all operations will be working perfect and also it's better to use Clear after using '=' if any error is there. All basic operations can be done using the developed calculator using the one or the other many (all) ways. <h1>
 
-Calculator App Screenshot
+![image](https://github.com/DataWorker2001/React_Calculator_Coding_Ninjas/assets/123379937/2871e258-97e3-4c17-9f28-704a45ff851d)
+
 
 Basic Features present in the app for basic Arithmetic Numerical expression evaluation and simple calculations :-
 
